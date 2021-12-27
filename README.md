@@ -13,7 +13,7 @@ $ pip install requests bs4
 ```
 $ git clone https://github.com/TechQaiser/Run
 $ cd Run
-$ python2 Run.py
+$ python2 run.py
 ```
 
 # Disclaimer
