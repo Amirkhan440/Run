@@ -11,12 +11,12 @@ $ pip install requests bs4
 ```
 # RUN
 ```
-$ git clone https://github.com/TechQaiser/run
-$ cd run
-$ python2 run.py
+$ git clone https://github.com/TechQaiser/Run
+$ cd Run
+$ python2 Run.py
 ```
 
-#Disclaimer
+# Disclaimer
 ```
 I Am Not Responsible For Any Miss Use 
 ```
