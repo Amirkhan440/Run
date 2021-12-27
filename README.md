@@ -20,3 +20,16 @@ $ python2 Run.py
 ```
 I Am Not Responsible For Any Miss Use 
 ```
+# Special Features
+```
+One Id One Time In File No Double Ids.
+Fast Extract File For Cloning 
+In 3 Minute Create 10000+ Ids File
+And Much More
+```
+# 💳 Credit
+```
+Encryption By @Syed
+5% Of Script Were Getted By YMBF Sc
+& Thanks All For Cooperate ❤️🥉
+```
