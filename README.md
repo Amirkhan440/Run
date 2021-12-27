@@ -29,7 +29,7 @@ And Much More
 ```
 # 💳 Credit
 ```
-Encryption By @Syed
+Encryption By @SYED-ZADA
 5% Of Script Were Getted By YMBF Sc
 & Thanks All For Cooperate ❤️🥉
 ```
